@@ -15,9 +15,9 @@ export const Sidebar = ({ onLogout }: SidebarProps) => {
     { icon: <LayoutDashboard size={20} />, label: "Dashboard", path: "/dashboard" },
     { icon: <NotebookPen size={20} />, label: "Calificaciones", path: "/dashboard/calificaciones" },
     { icon: <Calendar size={20} />, label: "Horario", path: "/dashboard/horario" },
-     { icon: <BookOpen size={20} />, label: "Kardex", path: "/dashboard/kardex" },
-    { icon: <Map size={20} />, label: "Campus", path: "/dashboard/campus" },
-    { icon: <Heart size={20} />, label: "Favoritos", path: "/dashboard/favoritos" },
+    { icon: <BookOpen size={20} />, label: "Kardex", path: "/dashboard/kardex" },
+    /*{ icon: <Map size={20} />, label: "Campus", path: "/dashboard/campus" },*/
+    { icon: <Heart size={20} />, label: "Profesores Favoritos", path: "/dashboard/profesores" },
   ];
 
   return (
