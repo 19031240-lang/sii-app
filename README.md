@@ -48,7 +48,7 @@ npm run dev
 
 ### 5. Abrir en el navegador
 
-http://localhost:3000
+http://localhost:3001
 
 ---
 
@@ -56,7 +56,7 @@ http://localhost:3000
 
 La aplicación se encuentra desplegada en la plataforma Vercel, lo que permite su acceso desde cualquier dispositivo con conexión a internet.
 
-### 🔗 URL del proyecto:
+###  URL del proyecto:
 
 
 
@@ -91,11 +91,23 @@ La aplicación consume directamente la API oficial del SII ITC:
 ### Login
 
 
+<img width="1600" height="915" alt="image" src="https://github.com/user-attachments/assets/dd99b971-a600-4a10-9a9b-4fb3e8aeff3d" />
 
 ### Dashboard
 
-<img width="1600" height="915" alt="image" src="https://github.com/user-attachments/assets/dd99b971-a600-4a10-9a9b-4fb3e8aeff3d" />
+<img width="1486" height="849" alt="image" src="https://github.com/user-attachments/assets/ea04d5c0-0378-472c-a645-9698def6044f" />
 
+### Kardex
+<img width="1542" height="815" alt="image" src="https://github.com/user-attachments/assets/8fdbea88-29d9-437e-8c62-ac9614209594" />
+
+### Horario
+<img width="1377" height="850" alt="image" src="https://github.com/user-attachments/assets/6d77e0f1-a3e4-4142-8524-db9b7d0b9924" />
+
+### Calificaciones
+<img width="1579" height="334" alt="image" src="https://github.com/user-attachments/assets/c769fa7f-dae0-4e59-a7b8-0fea6fc935d7" />
+
+
+### Funcionalidad extra
 
 ---
 
