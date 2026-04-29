@@ -2,7 +2,7 @@
 
 import Link from "next/link";
 import { usePathname } from "next/navigation";
-import { LayoutDashboard, BookOpen, Calendar, Map, Heart, LogOut } from "lucide-react";
+import { LayoutDashboard, BookOpen, Calendar, Map, Heart, LogOut, NotebookPen } from "lucide-react";
 
 interface SidebarProps {
   onLogout: () => void;
@@ -13,10 +13,11 @@ export const Sidebar = ({ onLogout }: SidebarProps) => {
 
   const menuItems = [
     { icon: <LayoutDashboard size={20} />, label: "Dashboard", path: "/dashboard" },
-    { icon: <BookOpen size={20} />, label: "Calificaciones", path: "/dashboard/calificaciones" },
+    { icon: <NotebookPen size={20} />, label: "Calificaciones", path: "/dashboard/calificaciones" },
     { icon: <Calendar size={20} />, label: "Horario", path: "/dashboard/horario" },
-    { icon: <Map size={20} />, label: "Campus", path: "/dashboard/campus" },
-    { icon: <Heart size={20} />, label: "Favoritos", path: "/dashboard/favoritos" },
+    { icon: <BookOpen size={20} />, label: "Kardex", path: "/dashboard/kardex" },
+    /*{ icon: <Map size={20} />, label: "Campus", path: "/dashboard/campus" },*/
+    { icon: <Heart size={20} />, label: "Profesores Favoritos", path: "/dashboard/profesores" },
   ];
 
   return (
