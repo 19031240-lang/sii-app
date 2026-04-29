@@ -65,12 +65,12 @@ La aplicación se encuentra desplegada en la plataforma Vercel, lo que permite s
 
 ##  Funcionalidades implementadas
 
-* ✔ Autenticación de usuario mediante API REST
-* ✔ Consumo de endpoints protegidos con token JWT
-* ✔ Almacenamiento del token en el navegador
-* ✔ Protección de rutas privadas
-* ✔ Proxy interno para evitar problemas de CORS
-* ✔ Interfaz moderna y responsiva
+* Autenticación de usuario mediante API REST
+* Consumo de endpoints protegidos con token JWT
+* Almacenamiento del token en el navegador
+* Protección de rutas privadas
+* Proxy interno para evitar problemas de CORS
+* Interfaz moderna y responsiva
 
 ---
 
